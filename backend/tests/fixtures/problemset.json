@@ -1,0 +1,396 @@
+{
+ "status": "OK",
+ "result": {
+  "problems": [
+   {
+    "contestId": 2001,
+    "index": "E2",
+    "name": "Deterministic Heap (Hard Version)",
+    "type": "PROGRAMMING",
+    "points": 2000.0,
+    "rating": 2900,
+    "tags": [
+     "combinatorics",
+     "dp",
+     "trees"
+    ]
+   },
+   {
+    "contestId": 2001,
+    "index": "E1",
+    "name": "Deterministic Heap (Easy Version)",
+    "type": "PROGRAMMING",
+    "points": 2000.0,
+    "rating": 2400,
+    "tags": [
+     "combinatorics",
+     "dp",
+     "math",
+     "trees"
+    ]
+   },
+   {
+    "contestId": 2001,
+    "index": "D",
+    "name": "Longest Max Min Subsequence",
+    "type": "PROGRAMMING",
+    "points": 2000.0,
+    "rating": 1900,
+    "tags": [
+     "brute force",
+     "constructive algorithms",
+     "data structures",
+     "greedy",
+     "implementation"
+    ]
+   },
+   {
+    "contestId": 2001,
+    "index": "C",
+    "name": "Guess The Tree",
+    "type": "PROGRAMMING",
+    "points": 1500.0,
+    "rating": 1500,
+    "tags": [
+     "binary search",
+     "brute force",
+     "dfs and similar",
+     "divide and conquer",
+     "dsu",
+     "greedy",
+     "interactive",
+     "trees"
+    ]
+   },
+   {
+    "contestId": 2001,
+    "index": "B",
+    "name": "Generate Permutation",
+    "type": "PROGRAMMING",
+    "points": 1000.0,
+    "rating": 800,
+    "tags": [
+     "constructive algorithms"
+    ]
+   },
+   {
+    "contestId": 2001,
+    "index": "A",
+    "name": "Make All Equal",
+    "type": "PROGRAMMING",
+    "points": 500.0,
+    "rating": 800,
+    "tags": [
+     "greedy",
+     "implementation"
+    ]
+   },
+   {
+    "contestId": 2000,
+    "index": "H",
+    "name": "Ksyusha and the Loaded Set",
+    "type": "PROGRAMMING",
+    "rating": 2200,
+    "tags": [
+     "binary search",
+     "brute force",
+     "data structures",
+     "implementation"
+    ]
+   },
+   {
+    "contestId": 2000,
+    "index": "G",
+    "name": "Call During the Journey",
+    "type": "PROGRAMMING",
+    "rating": 2100,
+    "tags": [
+     "binary search",
+     "brute force",
+     "graphs",
+     "greedy",
+     "shortest paths"
+    ]
+   },
+   {
+    "contestId": 2000,
+    "index": "F",
+    "name": "Color Rows and Columns",
+    "type": "PROGRAMMING",
+    "rating": 1900,
+    "tags": [
+     "dp",
+     "greedy",
+     "implementation",
+     "math"
+    ]
+   },
+   {
+    "contestId": 2000,
+    "index": "E",
+    "name": "Photoshoot for Gorillas",
+    "type": "PROGRAMMING",
+    "rating": 1400,
+    "tags": [
+     "combinatorics",
+     "data structures",
+     "greedy",
+     "math"
+    ]
+   },
+   {
+    "contestId": 2000,
+    "index": "D",
+    "name": "Right Left Wrong",
+    "type": "PROGRAMMING",
+    "rating": 1200,
+    "tags": [
+     "greedy",
+     "implementation",
+     "two pointers"
+    ]
+   },
+   {
+    "contestId": 2000,
+    "index": "C",
+    "name": "Numeric String Template",
+    "type": "PROGRAMMING",
+    "rating": 1000,
+    "tags": [
+     "data structures",
+     "strings"
+    ]
+   },
+   {
+    "contestId": 2000,
+    "index": "B",
+    "name": "Seating in a Bus",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+     "two pointers"
+    ]
+   },
+   {
+    "contestId": 2000,
+    "index": "A",
+    "name": "Primary Task",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+     "implementation",
+     "math",
+     "strings"
+    ]
+   },
+   {
+    "contestId": 1873,
+    "index": "H",
+    "name": "Mad City",
+    "type": "PROGRAMMING",
+    "rating": 1700,
+    "tags": [
+     "dfs and similar",
+     "dsu",
+     "games",
+     "graphs",
+     "shortest paths",
+     "trees"
+    ]
+   },
+   {
+    "contestId": 1873,
+    "index": "G",
+    "name": "ABBC or BACB",
+    "type": "PROGRAMMING",
+    "rating": 1500,
+    "tags": [
+     "constructive algorithms",
+     "greedy"
+    ]
+   },
+   {
+    "contestId": 1873,
+    "index": "F",
+    "name": "Money Trees",
+    "type": "PROGRAMMING",
+    "rating": 1300,
+    "tags": [
+     "binary search",
+     "greedy",
+     "math",
+     "two pointers"
+    ]
+   },
+   {
+    "contestId": 1873,
+    "index": "E",
+    "name": "Building an Aquarium",
+    "type": "PROGRAMMING",
+    "rating": 1100,
+    "tags": [
+     "binary search",
+     "sortings"
+    ]
+   },
+   {
+    "contestId": 1873,
+    "index": "D",
+    "name": "1D Eraser",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+     "greedy",
+     "implementation",
+     "two pointers"
+    ]
+   },
+   {
+    "contestId": 1873,
+    "index": "C",
+    "name": "Target Practice",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+     "implementation",
+     "math"
+    ]
+   },
+   {
+    "contestId": 1873,
+    "index": "B",
+    "name": "Good Kid",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+     "brute force",
+     "greedy",
+     "math"
+    ]
+   },
+   {
+    "contestId": 1873,
+    "index": "A",
+    "name": "Short Sort",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+     "brute force",
+     "implementation"
+    ]
+   }
+  ],
+  "problemStatistics": [
+   {
+    "contestId": 2001,
+    "index": "E2",
+    "solvedCount": 317
+   },
+   {
+    "contestId": 2001,
+    "index": "E1",
+    "solvedCount": 1607
+   },
+   {
+    "contestId": 2001,
+    "index": "D",
+    "solvedCount": 6806
+   },
+   {
+    "contestId": 2001,
+    "index": "C",
+    "solvedCount": 13292
+   },
+   {
+    "contestId": 2001,
+    "index": "B",
+    "solvedCount": 26409
+   },
+   {
+    "contestId": 2001,
+    "index": "A",
+    "solvedCount": 33389
+   },
+   {
+    "contestId": 2000,
+    "index": "H",
+    "solvedCount": 2440
+   },
+   {
+    "contestId": 2000,
+    "index": "G",
+    "solvedCount": 3330
+   },
+   {
+    "contestId": 2000,
+    "index": "F",
+    "solvedCount": 7402
+   },
+   {
+    "contestId": 2000,
+    "index": "E",
+    "solvedCount": 16979
+   },
+   {
+    "contestId": 2000,
+    "index": "D",
+    "solvedCount": 30684
+   },
+   {
+    "contestId": 2000,
+    "index": "C",
+    "solvedCount": 32626
+   },
+   {
+    "contestId": 2000,
+    "index": "B",
+    "solvedCount": 42148
+   },
+   {
+    "contestId": 2000,
+    "index": "A",
+    "solvedCount": 45593
+   },
+   {
+    "contestId": 1873,
+    "index": "H",
+    "solvedCount": 10026
+   },
+   {
+    "contestId": 1873,
+    "index": "G",
+    "solvedCount": 17753
+   },
+   {
+    "contestId": 1873,
+    "index": "F",
+    "solvedCount": 21038
+   },
+   {
+    "contestId": 1873,
+    "index": "E",
+    "solvedCount": 50073
+   },
+   {
+    "contestId": 1873,
+    "index": "D",
+    "solvedCount": 45318
+   },
+   {
+    "contestId": 1873,
+    "index": "C",
+    "solvedCount": 80881
+   },
+   {
+    "contestId": 1873,
+    "index": "B",
+    "solvedCount": 66286
+   },
+   {
+    "contestId": 1873,
+    "index": "A",
+    "solvedCount": 76043
+   }
+  ]
+ }
+}

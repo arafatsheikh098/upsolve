@@ -1,0 +1,110 @@
+{
+ "status": "OK",
+ "result": [
+  {
+   "id": 392363937,
+   "contestId": 2266,
+   "creationTimeSeconds": 1790532884,
+   "relativeTimeSeconds": 2147483647,
+   "problem": {
+    "contestId": 2266,
+    "index": "B",
+    "name": "Three Piles",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+     "games",
+     "greedy",
+     "math"
+    ]
+   },
+   "author": {
+    "contestId": 2266,
+    "participantId": 247478134,
+    "members": [
+     {
+      "handle": "arafatsheikh098"
+     }
+    ],
+    "participantType": "PRACTICE",
+    "ghost": false,
+    "startTimeSeconds": 1790001300
+   },
+   "programmingLanguage": "Python 3",
+   "verdict": "OK",
+   "testset": "TESTS",
+   "passedTestCount": 3,
+   "timeConsumedMillis": 62,
+   "memoryConsumedBytes": 0
+  },
+  {
+   "id": 392357140,
+   "contestId": 2266,
+   "creationTimeSeconds": 1790528865,
+   "relativeTimeSeconds": 2147483647,
+   "problem": {
+    "contestId": 2266,
+    "index": "A",
+    "name": "Good Contest",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+     "greedy"
+    ]
+   },
+   "author": {
+    "contestId": 2266,
+    "participantId": 247478134,
+    "members": [
+     {
+      "handle": "arafatsheikh098"
+     }
+    ],
+    "participantType": "PRACTICE",
+    "ghost": false,
+    "startTimeSeconds": 1790001300
+   },
+   "programmingLanguage": "Python 3",
+   "verdict": "OK",
+   "testset": "TESTS",
+   "passedTestCount": 2,
+   "timeConsumedMillis": 62,
+   "memoryConsumedBytes": 0
+  },
+  {
+   "id": 388084745,
+   "contestId": 2254,
+   "creationTimeSeconds": 1787461251,
+   "relativeTimeSeconds": 2147483647,
+   "problem": {
+    "contestId": 2254,
+    "index": "A",
+    "name": "Riptide",
+    "type": "PROGRAMMING",
+    "rating": 800,
+    "tags": [
+     "implementation",
+     "sortings"
+    ]
+   },
+   "author": {
+    "contestId": 2254,
+    "participantId": 244677926,
+    "members": [
+     {
+      "handle": "arafatsheikh098"
+     }
+    ],
+    "participantType": "PRACTICE",
+    "ghost": false,
+    "startTimeSeconds": 1785854100
+   },
+   "programmingLanguage": "Python 3",
+   "verdict": "OK",
+   "testset": "TESTS",
+   "passedTestCount": 2,
+   "timeConsumedMillis": 31,
+   "memoryConsumedBytes": 0
+  }
+ ]
+}

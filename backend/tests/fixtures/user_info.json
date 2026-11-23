@@ -1,0 +1,13 @@
+{
+ "status": "OK",
+ "result": [
+  {
+   "handle": "arafatsheikh098",
+   "rating": 1121,
+   "maxRating": 1211,
+   "rank": "newbie",
+   "maxRank": "pupil",
+   "titlePhoto": "https://userpic.codeforces.org/no-title.jpg"
+  }
+ ]
+}

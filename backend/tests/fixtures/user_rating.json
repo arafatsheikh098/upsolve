@@ -1,0 +1,32 @@
+{
+ "status": "OK",
+ "result": [
+  {
+   "contestId": 1873,
+   "contestName": "Codeforces Round 898 (Div. 4)",
+   "handle": "arafatsheikh098",
+   "rank": 19246,
+   "ratingUpdateTimeSeconds": 1695315900,
+   "oldRating": 0,
+   "newRating": 370
+  },
+  {
+   "contestId": 1878,
+   "contestName": "Codeforces Round 900 (Div. 3)",
+   "handle": "arafatsheikh098",
+   "rank": 18306,
+   "ratingUpdateTimeSeconds": 1695747000,
+   "oldRating": 370,
+   "newRating": 605
+  },
+  {
+   "contestId": 1915,
+   "contestName": "Codeforces Round 918 (Div. 4)",
+   "handle": "arafatsheikh098",
+   "rank": 14928,
+   "ratingUpdateTimeSeconds": 1703783100,
+   "oldRating": 605,
+   "newRating": 786
+  }
+ ]
+}
